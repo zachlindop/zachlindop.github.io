@@ -1,4 +1,4 @@
-# zachlindop.github.io
+# Zach Lindop
 Portfolio Projects
 
 ## About Me
