@@ -19,11 +19,10 @@ SQL • Excel • Tableau • Python • Powerpoint
 ## Education and Certifications
 
 - Software Engineering Live
-certifications/Software Engineer Certification.png
 ![My Certification](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Software%20Engineer%20Certification.png)
 
 - Generative AI Professional - Intermediate
-certifications/Genrative AI Professional - Intermediate Certificate.png
+![Generative AI Professional - Intermediate Certificate](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Genrative%20AI%20Professional%20-%20Intermediate%20Certificate.png)
 
 - Oracle PL/SQL Technical Consultant
 ![Oracle PL/SQL Technical Consultant Certificate](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Oracle%20PL%3ASQL%20Technical%20Consultant%20Certificate.png)
