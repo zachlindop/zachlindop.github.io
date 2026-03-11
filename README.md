@@ -20,6 +20,7 @@ SQL • Excel • Tableau • Python • Powerpoint
 
 - Software Engineering Live
 certifications/Software Engineer Certification.png
+![My Certification](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Software%20Engineer%20Certification.png)
 
 - Generative AI Professional - Intermediate
 certifications/Genrative AI Professional - Intermediate Certificate.png
