@@ -4,8 +4,7 @@ body {
 }
 </style>
 
-# Zach Lindop
-Portfolio Projects
+# Portfolio
 
 ## About Me
 I'm a data-focused professional interested in analytics, product operations, and technology-driven problem solving. I enjoy working with data to uncover insights, improve processes, and support strategic decision making.
@@ -15,7 +14,7 @@ I'm a data-focused professional interested in analytics, product operations, and
 - 📍 Based in San Francisco
 - 📈 Currently improving SQL and analytics workflows
 
-- LinkedIn: https://www.linkedin.com/in/zach-lindop/
+- LinkedIn: [Zach Lindop](https://www.linkedin.com/in/zach-lindop/)
 
 ## Technical Skills
 SQL • Excel • Tableau • Python • Powerpoint
