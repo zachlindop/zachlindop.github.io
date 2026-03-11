@@ -19,5 +19,10 @@ SQL • Excel • Tableau • Python • Powerpoint
 ## Education and Certifications
 
 - Software Engineering Live
+certifications/Software Engineer Certification.png
+
 - Generative AI Professional - Intermediate
+certifications/Genrative AI Professional - Intermediate Certificate.png
+
 - Oracle PL/SQL Technical Consultant
+certifications/Oracle PL:SQL Technical Consultant Certificate.png
