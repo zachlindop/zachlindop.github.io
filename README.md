@@ -25,4 +25,4 @@ certifications/Software Engineer Certification.png
 certifications/Genrative AI Professional - Intermediate Certificate.png
 
 - Oracle PL/SQL Technical Consultant
-[certifications/Oracle PL:SQL Technical Consultant Certificate.png](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Oracle%20PL%3ASQL%20Technical%20Consultant%20Certificate.png)
+![Oracle PL/SQL Technical Consultant Certificate](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Oracle%20PL%3ASQL%20Technical%20Consultant%20Certificate.png)
