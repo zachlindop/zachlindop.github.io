@@ -21,17 +21,29 @@ SQL • Excel • Tableau • Python • Powerpoint
 
 ## Projects
 
-###Dashboard
+Dashboard Work Sample
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png)
+![Dashboard 1](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png)
 
-###User Story
+User Story Work Sample
 
-![US Dashboard](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US1.png)
+![User Story 1](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US1.png)
 
-![US Dashboard 2](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US2.png)
+![User Story 2](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US2.png)
 
-![US Dashboard 3](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US3.png)
+![User Story 3](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US3.png)
+
+Use Case Work Sample
+
+![Use Case 1](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC1.png)
+
+![Use Case 2](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC2.png)
+
+![Use Case 3](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC3.png)
+
+![Use Case 4](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC4.png)
+
+![Use Case 5](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC5.png)
 
 ## Education and Certifications
 
