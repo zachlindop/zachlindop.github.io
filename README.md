@@ -23,6 +23,8 @@ SQL • Excel • Tableau • Python • Powerpoint
 
 ![Dashboard Screenshot](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png)
 
+![US Dashboard](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US1.png)
+
 ## Education and Certifications
 
 - Software Engineering Live
