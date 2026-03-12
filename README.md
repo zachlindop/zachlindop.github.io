@@ -21,9 +21,17 @@ SQL • Excel • Tableau • Python • Powerpoint
 
 ## Projects
 
+###Dashboard
+
 ![Dashboard Screenshot](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png)
 
+###User Story
+
 ![US Dashboard](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US1.png)
+
+![US Dashboard 2](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US2.png)
+
+![US Dashboard 3](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US3.png)
 
 ## Education and Certifications
 
