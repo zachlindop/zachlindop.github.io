@@ -21,6 +21,8 @@ SQL • Excel • Tableau • Python • Powerpoint
 
 ## Projects
 
+![Dashboard Screenshot](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png)
+
 ## Education and Certifications
 
 - Software Engineering Live
