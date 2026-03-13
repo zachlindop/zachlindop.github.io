@@ -9,7 +9,7 @@ body {
 ## About Me
 I'm a data-focused professional interested in analytics, product operations, and technology-driven problem solving. I enjoy working with data to uncover insights, improve processes, and support strategic decision making.
 
-- 📊 Interested in data analytics, product operations, and process flows
+- 📊 Interested in data analytics, visualization and process flows
 - ❤️ Passionate about solving problems with data
 - 📍 Based in San Francisco
 - 📈 Currently improving SQL and analytics workflows
@@ -21,19 +21,25 @@ SQL • Excel • Tableau • Python • Powerpoint
 
 ## Projects
 
-Dashboard Work Sample
+**Dashboard Work Sample**
 
 ![Dashboard 1](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png)
 
-User Story Work Sample
+**User Story Work Sample**
 
-![User Story 1](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US1.png)
+<p>
+  <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US1.png" width="32%">
+  <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US2.png" width="32%">
+  <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US3.png" width="32%">
+</p>
+
+<!--![User Story 1](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US1.png)
 
 ![User Story 2](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US2.png)
 
-![User Story 3](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US3.png)
+![User Story 3](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US3.png)-->
 
-Use Case Work Sample
+**Use Case Work Sample**
 
 <p>
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC1.png" width="32%">
@@ -46,7 +52,7 @@ Use Case Work Sample
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC5.png" width="32%">
 </p>
 
-![Use Case 1](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC1.png)
+<!--![Use Case 1](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC1.png)
 
 ![Use Case 2](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC2.png)
 
@@ -54,9 +60,9 @@ Use Case Work Sample
 
 ![Use Case 4](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC4.png)
 
-![Use Case 5](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC5.png)
+![Use Case 5](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC5.png)-->
 
-Process Flow Work Sample
+**Process Flow Work Sample**
 
 <p>
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF1.png" width="32%">
