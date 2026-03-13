@@ -28,10 +28,24 @@ SQL • Excel • Tableau • Python • Powerpoint
 **User Story Work Sample**
 
 <p>
+  <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US1.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US1.png" width="32%">
+  </a>
+
+  <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US2.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US2.png" width="32%">
+  </a>
+
+  <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US3.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US3.png" width="32%">
+  </a>
+</p>
+
+<!--<p>
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US1.png" width="32%">
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US2.png" width="32%">
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US3.png" width="32%">
-</p>
+</p>-->
 
 <!--![User Story 1](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US1.png)
 
