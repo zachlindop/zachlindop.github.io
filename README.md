@@ -35,6 +35,17 @@ User Story Work Sample
 
 Use Case Work Sample
 
+<p>
+  <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC1.png" width="32%">
+  <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC2.png" width="32%">
+  <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC3.png" width="32%">
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC4.png" width="32%">
+  <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC5.png" width="32%">
+</p>
+
 ![Use Case 1](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC1.png)
 
 ![Use Case 2](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC2.png)
