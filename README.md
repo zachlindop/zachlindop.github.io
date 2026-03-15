@@ -17,6 +17,32 @@ I'm a data-focused professional interested in analytics, product operations, and
 - LinkedIn: [Zach Lindop](https://www.linkedin.com/in/zach-lindop/)
 
 ## Technical Skills
+
+<style>
+.skills-container {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.skill-box {
+  background-color: #fff6cc;
+  padding: 10px 18px;
+  border-radius: 6px;
+  font-weight: 600;
+  border: 1px solid #e6d98c;
+}
+</style>
+
+<h3>Technical Skills</h3>
+
+<div class="skills-container">
+  <div class="skill-box">SQL</div>
+  <div class="skill-box">Excel</div>
+  <div class="skill-box">Tableau</div>
+  <div class="skill-box">Python</div>
+  <div class="skill-box">PowerPoint</div>
+</div>
 SQL • Excel • Tableau • Python • Powerpoint
 
 ## Projects
