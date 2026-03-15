@@ -46,7 +46,7 @@ I'm a data-focused professional interested in analytics, product operations, and
 <br>
 <!--SQL • Excel • Tableau • Python • Powerpoint-->
 
-
+----------------------------------
 ## Projects
 
 **Dashboard Work Sample**
@@ -173,14 +173,17 @@ I'm a data-focused professional interested in analytics, product operations, and
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF5.png" width="32%">
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF6.png" width="32%">
 </p>-->
-
+----------------------------------
 ## Education and Certifications
 
 **Software Engineering Live**
+<br>
 ![My Certification](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Software%20Engineer%20Certification.png)
 
 **Generative AI Professional - Intermediate**
+<br>
 ![Generative AI Professional - Intermediate Certificate](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Genrative%20AI%20Professional%20-%20Intermediate%20Certificate.png)
 
 **Oracle PL/SQL Technical Consultant**
+<br>
 ![Oracle PL/SQL Technical Consultant Certificate](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Oracle%20PL%3ASQL%20Technical%20Consultant%20Certificate.png)
