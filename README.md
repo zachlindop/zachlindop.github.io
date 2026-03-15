@@ -56,6 +56,30 @@ SQL • Excel • Tableau • Python • Powerpoint
 **Use Case Work Sample**
 
 <p>
+  <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC1.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC1.png" width="32%">
+  </a>
+
+  <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC2.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC2.png" width="32%">
+  </a>
+
+  <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC3.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC3.png" width="32%">
+  </a>
+</p>
+
+<p>
+  <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC4.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC4.png" width="32%">
+  </a>
+
+  <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC5.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC5.png" width="32%">
+  </a>
+</p>
+
+<!--<p>
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC1.png" width="32%">
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC2.png" width="32%">
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC3.png" width="32%">
@@ -64,7 +88,7 @@ SQL • Excel • Tableau • Python • Powerpoint
 <p>
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC4.png" width="32%">
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC5.png" width="32%">
-</p>
+</p>-->
 
 <!--![Use Case 1](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC1.png)
 
