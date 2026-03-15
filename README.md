@@ -34,7 +34,7 @@ I'm a data-focused professional interested in analytics, product operations, and
 }
 </style>
 
-<h3>Technical Skills</h3>
+<!--<h3>Technical Skills</h3>-->
 
 <div class="skills-container">
   <div class="skill-box">SQL</div>
@@ -43,7 +43,7 @@ I'm a data-focused professional interested in analytics, product operations, and
   <div class="skill-box">Python</div>
   <div class="skill-box">PowerPoint</div>
 </div>
-SQL • Excel • Tableau • Python • Powerpoint
+<!--SQL • Excel • Tableau • Python • Powerpoint-->
 
 ## Projects
 
