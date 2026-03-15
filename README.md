@@ -43,6 +43,7 @@ I'm a data-focused professional interested in analytics, product operations, and
   <div class="skill-box">Python</div>
   <div class="skill-box">PowerPoint</div>
 </div>
+<br>
 <!--SQL • Excel • Tableau • Python • Powerpoint-->
 
 
