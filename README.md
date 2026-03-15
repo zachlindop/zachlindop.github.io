@@ -45,6 +45,7 @@ I'm a data-focused professional interested in analytics, product operations, and
 </div>
 <!--SQL • Excel • Tableau • Python • Powerpoint-->
 
+
 ## Projects
 
 **Dashboard Work Sample**
