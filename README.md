@@ -23,7 +23,11 @@ SQL • Excel • Tableau • Python • Powerpoint
 
 **Dashboard Work Sample**
 
-![Dashboard 1](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png)
+<a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png" width="800">
+</a>
+
+<!--![Dashboard 1](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png)-->
 
 **User Story Work Sample**
 
@@ -103,6 +107,34 @@ SQL • Excel • Tableau • Python • Powerpoint
 **Process Flow Work Sample**
 
 <p>
+  <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF1.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF1.png" width="32%">
+  </a>
+
+  <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF2.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF2.png" width="32%">
+  </a>
+
+  <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF3.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF3.png" width="32%">
+  </a>
+</p>
+
+<p>
+  <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF4.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF4.png" width="32%">
+  </a>
+
+  <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF5.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF5.png" width="32%">
+  </a>
+
+  <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF6.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF6.png" width="32%">
+  </a>
+</p>
+
+<!--<p>
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF1.png" width="32%">
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF2.png" width="32%">
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF3.png" width="32%">
@@ -112,7 +144,7 @@ SQL • Excel • Tableau • Python • Powerpoint
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF4.png" width="32%">
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF5.png" width="32%">
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF6.png" width="32%">
-</p>
+</p>-->
 
 ## Education and Certifications
 
