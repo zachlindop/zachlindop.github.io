@@ -75,6 +75,12 @@ I'm a data-focused professional interested in analytics, product operations, and
   </a>
 </p>
 
+<p align="center">
+<a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard1.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard1.png" width="800">
+</a>
+</p>
+
 **User Story Work Sample**
 
 <p>
