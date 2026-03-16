@@ -61,6 +61,20 @@ I'm a data-focused professional interested in analytics, product operations, and
 
 <!--![Dashboard 1](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png)-->
 
+<p>
+  <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard2_1.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard2_1.png" width="32%">
+  </a>
+
+  <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard2_2.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard2_2.png" width="32%">
+  </a>
+
+  <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard2_3.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard2_3.png" width="32%">
+  </a>
+</p>
+
 **User Story Work Sample**
 
 <p>
