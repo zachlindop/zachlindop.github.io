@@ -51,9 +51,13 @@ I'm a data-focused professional interested in analytics, product operations, and
 
 **Dashboard Work Sample**
 
-<a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png" width="800">
+<a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/RareEarthMetalDB.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/RareEarthMetalDB.png" width="800">
 </a>
+
+<!--<a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png" width="800">
+</a>-->
 
 <!--![Dashboard 1](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png)-->
 
