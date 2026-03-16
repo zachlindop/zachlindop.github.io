@@ -49,18 +49,23 @@ I'm a data-focused professional interested in analytics, product operations, and
 ----------------------------------
 ## Projects
 
-**Dashboard Work Sample**
+**Dashboard Work Samples**
+
+_Rare Earth Metals_
 
 <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/RareEarthMetalDB.png" target="_blank">
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/RareEarthMetalDB.png" width="800">
 </a>
-
+<br>
 <!--<a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png" target="_blank">
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png" width="800">
 </a>-->
 
 <!--![Dashboard 1](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png)-->
+<br>
 
+_McDonalds South America Metrics_
+<br>
 <p>
   <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard2_1.png" target="_blank">
     <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard2_1.png" width="32%">
@@ -74,6 +79,8 @@ I'm a data-focused professional interested in analytics, product operations, and
     <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard2_3.png" width="32%">
   </a>
 </p>
+
+_Consulting KPIs_
 
 <p align="center">
 <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard1.png" target="_blank">
