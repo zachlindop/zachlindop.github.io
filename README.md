@@ -63,15 +63,14 @@ _Rare Earth Metals_
 
 <!--![Dashboard 1](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png)-->
 <br>
-
-_John Deere European Sales Metrics_
-<br>
 Features:
 
-- **Dynamic KPIs** linked to Pivot Tables  
-- **Interactive map** with country-specific metrics  
-- **Seamless navigation** via hyperlinks across all 3 tabs  
-- **Automated email composition** capability
+- **Slicers** for year and region specific data  
+- **Dynamic chart** linked to slicers and Pivot Tables  
+- **Interactive KPI views**
+_John Deere European Sales Metrics_
+<br>
+
 <p>
   <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/DB2_1.png" target="_blank">
     <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/DB2_1.png" width="32%">
@@ -85,6 +84,13 @@ Features:
     <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/DB2_3.png" width="32%">
   </a>
 </p>
+Features:
+
+- **Dynamic KPIs** linked to Pivot Tables  
+- **Interactive map** with country-specific metrics  
+- **Seamless navigation** via hyperlinks across all 3 tabs  
+- **Automated email composition** capability
+<br>
 
 _Consulting KPIs_
 
