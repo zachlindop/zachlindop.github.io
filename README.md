@@ -95,11 +95,13 @@ Features:
 
 _Consulting KPIs_
 
-<p align="center">
-<a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard1.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard1.png" width="800">
+<a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/DB1_1.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/DB1_1.png" width="800">
 </a>
-</p>
+
+<br>
+<br>
+
 Features:
 
 - **Interactive satisfaction chart** linked to table  
