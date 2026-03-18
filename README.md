@@ -100,6 +100,12 @@ _Consulting KPIs_
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard1.png" width="800">
 </a>
 </p>
+Features:
+
+- **Interactive satisfaction chart** linked to table  
+- **Dynamic waterfall chart**  
+- **Expense report and visualization**
+<br>
 
 **User Story Work Sample**
 
