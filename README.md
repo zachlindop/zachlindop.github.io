@@ -68,6 +68,7 @@ Features:
 - **Slicers** for year and region specific data  
 - **Dynamic chart** linked to slicers and Pivot Tables  
 - **Interactive KPI views**
+
 _John Deere European Sales Metrics_
 <br>
 
