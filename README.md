@@ -68,7 +68,7 @@ Features:
 - **Slicers** for year and region specific data  
 - **Dynamic chart** linked to slicers and Pivot Tables  
 - **Interactive KPI views**
-
+<hr style="height:3px; border:none; background-color:#333;">
 _John Deere European Sales Metrics_
 <br>
 
@@ -92,7 +92,7 @@ Features:
 - **Seamless navigation** via hyperlinks across all 3 tabs  
 - **Automated email composition** capability
 <br>
-
+<hr style="height:3px; border:none; background-color:#333;">
 _Consulting KPIs_
 
 <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/DB1_1.png" target="_blank">
@@ -101,14 +101,13 @@ _Consulting KPIs_
 
 <br>
 <br>
-
 Features:
 
 - **Interactive satisfaction chart** linked to table  
 - **Dynamic waterfall chart**  
 - **Expense report and visualization**
 <br>
-
+<hr style="height:3px; border:none; background-color:#333;">
 **User Story Work Sample**
 
 <p>
