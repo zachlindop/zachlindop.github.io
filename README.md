@@ -66,6 +66,12 @@ _Rare Earth Metals_
 
 _John Deere European Sales Metrics_
 <br>
+Features:
+
+- **Dynamic KPIs** linked to Pivot Tables  
+- **Interactive map** with country-specific metrics  
+- **Seamless navigation** via hyperlinks across all 3 tabs  
+- **Automated email composition** capability
 <p>
   <a href="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/DB2_1.png" target="_blank">
     <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/DB2_1.png" width="32%">
