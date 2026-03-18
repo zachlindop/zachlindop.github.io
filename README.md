@@ -62,7 +62,6 @@ _Rare Earth Metals_
 </a>-->
 
 <!--![Dashboard 1](https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/Dashboard3.png)-->
-<br>
 Features:
 
 - **Slicers** for year and region specific data  
@@ -100,7 +99,6 @@ _Consulting KPIs_
 </a>
 
 <br>
-<br>
 Features:
 
 - **Interactive satisfaction chart** linked to table  
@@ -123,7 +121,7 @@ Features:
     <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US3.png" width="32%">
   </a>
 </p>
-
+<hr style="height:3px; border:none; background-color:#333;">
 <!--<p>
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US1.png" width="32%">
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/US2.png" width="32%">
@@ -161,6 +159,7 @@ Features:
     <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC5.png" width="32%">
   </a>
 </p>
+<hr style="height:3px; border:none; background-color:#333;">
 
 <!--<p>
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/UC1.png" width="32%">
@@ -212,6 +211,7 @@ Features:
     <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF6.png" width="32%">
   </a>
 </p>
+<hr style="height:3px; border:none; background-color:#333;">
 
 <!--<p>
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF1.png" width="32%">
