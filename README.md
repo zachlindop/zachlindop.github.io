@@ -225,7 +225,44 @@ Features:
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF6.png" width="32%">
 </p>-->
 
-<a href="Doctor_Activity_Report.md">Doctor Activity Report</a>
+# Doctor Activity Report
+
+This query summarizes doctor appointments and unique patients in the hospital.
+
+## SQL Query
+```sql
+WITH appointment_summary AS (
+    SELECT 
+        d.id AS doctor_id,
+        d.first_name || ' ' || d.last_name AS doctor_name,
+        a.id AS appointment_id,
+        p.id AS patient_id
+    FROM doctors d
+    LEFT JOIN appointments a 
+        ON d.id = a.doctor_id
+    LEFT JOIN patients p
+        ON a.patient_id = p.id
+)
+SELECT 
+    doctor_id,
+    doctor_name,
+    COUNT(appointment_id) AS total_appointments,
+    COUNT(DISTINCT patient_id) AS unique_patients
+FROM appointment_summary
+GROUP BY 
+    doctor_id,
+    doctor_name
+ORDER BY 
+    total_appointments DESC;
+```
+<br>
+Features:
+
+- **WITH clause** - separates data preparation from analysis for clarity and maintainability  
+- **LEFT JOINs** - ensures all doctors are included, even if they have no appointments
+- **COUNT & COUNT(DISTINCT)** - aggregates appointment counts and unique patient counts
+- **GROUP BY** - groups results per doctor
+<br>
 ----------------------------------
 ## Education and Certifications
 
