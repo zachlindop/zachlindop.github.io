@@ -225,11 +225,11 @@ Features:
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF6.png" width="32%">
 </p>-->
 
-# Doctor Activity Report
+# SQL Queries
 
 This query summarizes doctor appointments and unique patients in the hospital.
 
-## SQL Query
+## Doctor Activity Report
 ```sql
 WITH appointment_summary AS (
     SELECT 
@@ -263,7 +263,7 @@ Features:
 - **COUNT & COUNT(DISTINCT)** - aggregates appointment counts and unique patient counts
 - **GROUP BY** - groups results per doctor
 <br>
-----------------------------------
+<hr style="height:3px; border:none; background-color:#333;">
 ## Education and Certifications
 
 **Software Engineering Live**
