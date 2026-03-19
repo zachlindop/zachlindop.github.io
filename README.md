@@ -224,6 +224,8 @@ Features:
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF5.png" width="32%">
   <img src="https://raw.githubusercontent.com/zachlindop/github-images/main/certifications/PF6.png" width="32%">
 </p>-->
+
+<a href="Doctor_Activity_Report.md">Doctor Activity Report</a>
 ----------------------------------
 ## Education and Certifications
 
