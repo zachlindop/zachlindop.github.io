@@ -264,6 +264,8 @@ Features:
 - **GROUP BY** - groups results per doctor
 <br>
 
+This query analyzes doctor workload and patient distribution by ranking providers based on appointment volume and unique patients. Workload differences are calculated to identify potential imbalances
+
 ## Appointment Tracker
 ```sql
 WITH doctor_stats AS (
@@ -308,10 +310,10 @@ ORDER BY
 <br>
 Features:
 
-- **WITH clause** - separates data preparation from analysis for clarity and maintainability  
-- **LEFT JOINs** - ensures all doctors are included, even if they have no appointments
-- **COUNT & COUNT(DISTINCT)** - aggregates appointment counts and unique patient counts
-- **GROUP BY** - groups results per doctor
+- **HAVING clause** - to filter for active doctors that have a productive count of appointments 
+- **RANK** - assigns doctor positions with gaps for ties
+- **DENSE_RANK** - groups doctors without gaps, allowing for clearer performance tiering
+- **SELF JOIN** - to compare each doctor to other doctors with the same appointment rank
 <hr style="height:3px; border:none; background-color:#333;">
 ## Education and Certifications
 
