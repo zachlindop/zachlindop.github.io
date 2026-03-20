@@ -263,6 +263,55 @@ Features:
 - **COUNT & COUNT(DISTINCT)** - aggregates appointment counts and unique patient counts
 - **GROUP BY** - groups results per doctor
 <br>
+
+## Appointment Tracker
+```sql
+WITH doctor_stats AS (
+    SELECT 
+        d.id AS doctor_id,
+        d.first_name || ' ' || d.last_name AS doctor_name,
+        COUNT(a.id) AS total_appointments,
+        COUNT(DISTINCT a.patient_id) AS unique_patients
+    FROM doctors d
+    LEFT JOIN appointments a 
+        ON d.id = a.doctor_id
+    GROUP BY 
+        d.id, 
+        d.first_name, 
+        d.last_name
+    HAVING COUNT(a.id) > 5
+),
+ranked_doctors AS (
+    SELECT 
+        *,
+        RANK() OVER (ORDER BY total_appointments DESC) AS appointment_rank,
+        DENSE_RANK() OVER (ORDER BY unique_patients DESC) AS patient_rank
+    FROM doctor_stats
+)
+SELECT 
+    d1.doctor_name,
+    d1.total_appointments,
+    d1.unique_patients,
+    d1.appointment_rank,
+    d1.patient_rank,
+    d2.doctor_name AS peer_doctor,
+    d2.total_appointments AS peer_appointments,
+    d1.total_appointments - d2.total_appointments AS appointment_diff
+FROM ranked_doctors d1
+LEFT JOIN ranked_doctors d2
+    ON d1.appointment_rank = d2.appointment_rank
+    AND d1.doctor_id < d2.doctor_id
+ORDER BY 
+    d1.appointment_rank,
+    d1.doctor_name;
+```
+<br>
+Features:
+
+- **WITH clause** - separates data preparation from analysis for clarity and maintainability  
+- **LEFT JOINs** - ensures all doctors are included, even if they have no appointments
+- **COUNT & COUNT(DISTINCT)** - aggregates appointment counts and unique patient counts
+- **GROUP BY** - groups results per doctor
 <hr style="height:3px; border:none; background-color:#333;">
 ## Education and Certifications
 
