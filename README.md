@@ -263,7 +263,6 @@ Features:
 - **COUNT & COUNT(DISTINCT)** - aggregates appointment counts and unique patient counts
 - **GROUP BY** - groups results per doctor
 <hr style="height:3px; border:none; background-color:#333;">
-<br>
 
 ## Appointment Tracker
 
@@ -316,7 +315,6 @@ Features:
 - **DENSE_RANK** - groups doctors without gaps, allowing for clearer performance tiering
 - **SELF JOIN** - to compare each doctor to other doctors with the same appointment rank
 <hr style="height:3px; border:none; background-color:#333;">
-<br>
 
 ## Import Excel File into SQL Table
 
