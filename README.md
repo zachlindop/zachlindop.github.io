@@ -227,9 +227,9 @@ Features:
 
 # SQL Queries
 
-This query summarizes doctor appointments and unique patients in the hospital.
-
 ## Doctor Activity Report
+
+This query summarizes doctor appointments and unique patients in the hospital.
 ```sql
 WITH appointment_summary AS (
     SELECT 
@@ -262,11 +262,12 @@ Features:
 - **LEFT JOINs** - ensures all doctors are included, even if they have no appointments
 - **COUNT & COUNT(DISTINCT)** - aggregates appointment counts and unique patient counts
 - **GROUP BY** - groups results per doctor
+<hr style="height:3px; border:none; background-color:#333;">
 <br>
 
-This query analyzes doctor workload and patient distribution by ranking providers based on appointment volume and unique patients. Workload differences are calculated to identify potential imbalances
-
 ## Appointment Tracker
+
+This query analyzes doctor workload and patient distribution by ranking providers based on appointment volume and unique patients. Workload differences are calculated to identify potential imbalances
 ```sql
 WITH doctor_stats AS (
     SELECT 
@@ -315,6 +316,38 @@ Features:
 - **DENSE_RANK** - groups doctors without gaps, allowing for clearer performance tiering
 - **SELF JOIN** - to compare each doctor to other doctors with the same appointment rank
 <hr style="height:3px; border:none; background-color:#333;">
+<br>
+
+## Import Excel File into SQL Table
+
+This SQL code loads firewall log data from a CSV file into a SQL Server table so it can be stored, queried, and analyzed
+```sql
+CREATE TABLE dbo.FirewallEvents (
+    EventID INT,
+    EventTime DATETIME,
+    SourceIP NVARCHAR(50),
+    DestinationIP NVARCHAR(50),
+    Action NVARCHAR(20),
+    Severity NVARCHAR(20)
+);
+BULK INSERT dbo.FirewallEvents
+FROM 'C:\Data\SecurityLogs.csv'  -- <-- Your CSV file path
+WITH (
+    FIRSTROW = 2,                -- Skip header row
+    FIELDTERMINATOR = ',',       -- Column separator in CSV
+    ROWTERMINATOR = '\n',        -- Line break
+    TABLOCK
+);
+SELECT TOP 100 * FROM dbo.FirewallEvents;
+```
+<br>
+Features:
+
+- **Creates a structured database table (FirewallEvents)** to store cybersecurity log data
+- **Imports Excel data** from a specified file path into the SQL Server table
+- **Immediate verification** enabling quick confirmation that the data has been correctly imported
+<hr style="height:3px; border:none; background-color:#333;">
+<br>
 ## Education and Certifications
 
 **Software Engineering Live**
